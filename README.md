@@ -23,3 +23,5 @@ To run tests apply these setting to the **default** JUnit run configuration type
   `-ea -Xmx128M -Djava.system.class.loader=com.intellij.util.lang.UrlClassLoader -Didea.config.path=../test-config -Didea.system.path=../test-system`
 
 You can find other useful information at [http://www.jetbrains.org](http://www.jetbrains.org). [Contribute section](http://www.jetbrains.org/display/IJOS/Contribute) of that site describes how you can contribute to IntelliJ IDEA.
+
+[![](http://codescene.io/projects/2550/status.svg) Get more details at **codescene.io**.](http://codescene.io/projects/2550/jobs/latest-successful/results)
